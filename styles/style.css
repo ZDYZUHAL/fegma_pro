@@ -1,0 +1,30 @@
+h1 {
+  color: black;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 90px;
+}
+p {
+  font-family: "poppins", serif;
+  font-weight: normal;
+}
+.divhone {
+  background: #f9f7fe;
+  text-align: center;
+  padding: 160px, 20px;
+}
+.divhone p {
+  font-size: 36px;
+}
+.divhone h2 {
+  font-family: "poppins", serif;
+}
+.btn-branding {
+  background: var(--braning-color);
+  border-radius: 4px;
+  color: #f9f7fe;
+  font-size: 18px;
+}
+:root {
+  --braning-color: #6c63ff;
+}
