@@ -41,6 +41,7 @@ p {
     text-align: center;
   }
 }
-.bout-part-con-sec {
-  margin: 30px;
+.con h3 {
+  font-size: 26px;
+  font-family: "poppins", serif;
 }
