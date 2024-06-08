@@ -35,3 +35,12 @@ p {
   color: #f9f7fe;
   font-size: 18px;
 }
+@media (max-width: 960px) {
+  .pro {
+    padding: 0;
+    text-align: center;
+  }
+}
+.bout-part-con-sec {
+  margin: 30px;
+}
