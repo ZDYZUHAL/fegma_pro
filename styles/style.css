@@ -45,3 +45,11 @@ p {
   font-size: 26px;
   font-family: "poppins", serif;
 }
+.logo {
+  max-width: 150px;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  margin-left: 10px;
+}
